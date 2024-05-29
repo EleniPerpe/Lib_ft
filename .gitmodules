@@ -1,0 +1,4 @@
+[submodule "Documents/final_so_long"]
+	path = Documents/final_so_long
+	url = git@vogsphere.42heilbronn.de:vogsphere/intra-uuid-d87042c1-1cd8-43cb-96ef-94f6a7c93edf-5685512-eperperi
+	branch = master
