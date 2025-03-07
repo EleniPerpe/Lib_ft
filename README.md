@@ -1,0 +1,1 @@
+libft is a custom implementation of a collection of utility functions commonly found in the C standard library (libc), along with additional functions that help manipulate strings, memory, and linked lists. The goal of this project is to create a reusable library that can serve as a foundational toolset for future C projects in the cursus.
